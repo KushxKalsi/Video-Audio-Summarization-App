@@ -83,4 +83,4 @@ Contributions are welcome! To contribute, please submit a pull request and follo
 
 ## Author
 
-Lav Kalsi
+Kush Kalsi
